@@ -19,19 +19,19 @@
    
 ##  Featured Projects:
 
- AI Chat App
+🤖 AI Chat App
 
 Full-stack AI chat application built with React, FastAPI, and GPT.  
 👉 Fast, scalable, and easy to deploy  
 
 
- AI Psychologist Bot
+ 🧠 AI Psychologist Bot
 
 Tel-egra-m bot that helps users manage emotions using AI.  
 👉 Lightweight and intelligent conversation system  
 
 
- Machine Learning Notebooks
+ 📊 Machine Learning Notebooks
 
 Collection of practical ML projects and experiments.  
 👉 Useful for learning and real-world applications  
