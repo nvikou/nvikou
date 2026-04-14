@@ -5,7 +5,7 @@
 
 
 ##  What I Do:
-- 🤖 Build AI chatbots & automation systems  
+-  Build AI chatbots & automation systems  
 -  Develop full-stack web applications  
 -  Work on machine learning & data projects
 
@@ -31,7 +31,7 @@ Tel-egra-m bot that helps users manage emotions using AI.
 👉 Lightweight and intelligent conversation system  
 
 
-📊 Machine Learning Notebooks
+ Machine Learning Notebooks
 
 Collection of practical ML projects and experiments.  
 👉 Useful for learning and real-world applications  
