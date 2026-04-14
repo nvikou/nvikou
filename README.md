@@ -22,19 +22,19 @@
 🤖 AI Chat App
 
 Full-stack AI chat application built with React, FastAPI, and GPT.  
-👉 Fast, scalable, and easy to deploy  
+ Fast, scalable, and easy to deploy  
 
 
  🧠 AI Psychologist Bot
 
 Tel-egra-m bot that helps users manage emotions using AI.  
-👉 Lightweight and intelligent conversation system  
+ Lightweight and intelligent conversation system  
 
 
  📊 Machine Learning Notebooks
 
 Collection of practical ML projects and experiments.  
-👉 Useful for learning and real-world applications  
+Useful for learning and real-world applications  
 
 ##  Goals:
 - Build impactful AI tools  
@@ -46,4 +46,4 @@ Collection of practical ML projects and experiments.
 Visit my GitHub profile for projects and updates.
 
 
-⭐ If you like my projects, feel free to star and follow!
+If you like my projects, feel free to star and follow!
