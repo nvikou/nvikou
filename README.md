@@ -44,6 +44,7 @@ Useful for learning and real-world applications
 
 ## Connect
 Visit my GitHub profile for projects and updates.
+https://nvikou.github.io/
 
 
 If you like my projects, feel free to star and follow!
