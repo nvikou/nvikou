@@ -4,7 +4,7 @@
  I create AI-powered tools, bots, and scalable web applications  
 
 
-## 🔥 What I Do:
+##  What I Do:
 - 🤖 Build AI chatbots & automation systems  
 -  Develop full-stack web applications  
 -  Work on machine learning & data projects
@@ -17,15 +17,15 @@
 - Tools: Docker, Git
 
    
-## 🚀 Featured Projects:
+##  Featured Projects:
 
-🤖 AI Chat App
+ AI Chat App
 
 Full-stack AI chat application built with React, FastAPI, and GPT.  
 👉 Fast, scalable, and easy to deploy  
 
 
-🧠 AI Psychologist Bot
+ AI Psychologist Bot
 
 Tel-egra-m bot that helps users manage emotions using AI.  
 👉 Lightweight and intelligent conversation system  
@@ -36,13 +36,13 @@ Tel-egra-m bot that helps users manage emotions using AI.
 Collection of practical ML projects and experiments.  
 👉 Useful for learning and real-world applications  
 
-## 📈 Goals:
+##  Goals:
 - Build impactful AI tools  
 - Contribute to open source  
 - Grow a strong developer community.
 
 
-## 🔗 Connect
+## Connect
 Visit my GitHub profile for projects and updates.
 
 
