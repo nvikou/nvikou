@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Vikou
+# Hi, I'm Vikou
 
-🚀 Full-Stack Developer & AI Builder  
-💡 I create AI-powered tools, bots, and scalable web applications  
+ Full-Stack Developer & AI Builder  
+ I create AI-powered tools, bots, and scalable web applications  
 
 
 ## 🔥 What I Do:
 - 🤖 Build AI chatbots & automation systems  
-- 🌐 Develop full-stack web applications  
-- 📊 Work on machine learning & data projects
+-  Develop full-stack web applications  
+-  Work on machine learning & data projects
 
-## 🛠️ Tech Stack:
+##  Tech Stack:
 
 - Frontend: React, HTML, CSS, Tailwind  
 - Backend: Python, FastAPI, Node.js  
