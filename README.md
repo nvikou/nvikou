@@ -2,7 +2,7 @@
 
  Full-Stack Developer & AI Builder | AI/ML Developer & GPT Engineer | Econometrics | Bots, Automation & Growth Systems 
  
- I create AI-powered tools, bots, and scalable web applications  
+ I create AI/ML products, GPT applications, bots, automation workflows, and scalable web solutions, with expertise in econometrics and growth systems.
 
 
 ##  What I Do:
