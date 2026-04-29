@@ -1,6 +1,6 @@
 # Hi, I'm Vikou
 
- Full-Stack Developer & AI Builder | AI/ML Developer & GPT Engineer | Econometrics | Bots, Automation & Growth Systems 
+ AI/ML Engineer | GPT Engineer |  Full-Stack Developer & AI Builder | Econometrics | Automation 
  
  I create AI-powered tools, bots, and scalable web applications.
 
