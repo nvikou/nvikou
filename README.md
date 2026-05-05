@@ -2,7 +2,7 @@
 
  AI/ML Engineer | GPT Engineer |  Full-Stack Developer & AI Builder | Econometrics | Automation 
  
- I create AI-powered tools, bots, and scalable web applications.
+ Passionate about technology and motivated to use data and AI/ML to solve business problems, i create AI-powered tools, bots, and scalable web applications.
 
 
 ##  What I Do:
