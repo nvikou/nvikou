@@ -1,6 +1,6 @@
 # Hi, I'm Vikou
 
- AI/ML Engineer | GPT Engineer |  Full-Stack Developer & AI Builder | Econometrics | Automation 
+ AI/ML Engineer | AI/ML Developper | GPT Engineer |  Full-Stack Developer & AI Builder | Econometrics | Automation 
  
  Passionate about technology and motivated to use data and AI/ML to solve business problems, i create AI-powered tools,  conversational agents, and scalable web applications.
 
