@@ -75,7 +75,7 @@ Automates **70–80%** of support tickets: RAG, source citations, confidence sco
 ### NeuroHelper
 Day plans, checklists & ideas in seconds. React + FastAPI + SSE streaming.
 
-`React 18` · `FastAPI` · `OpenAI` · `Docker`
+`React 18` · `FastAPI` · `OpenAI` · `Docker` · ⭐ 5
 
 [![Repo](https://img.shields.io/badge/→_GitHub-1a1a2e?style=flat-square&logo=github)](https://github.com/nvikou/NeuroHelper-chat-app-react-fastapi)
 
@@ -116,13 +116,35 @@ Automatic pipeline search, Python export, DevContainer / Codespaces.
 </td>
 <td valign="top">
 
-### ML Notebooks & Math for DS
-Hands-on ML experiments, Kaggle work & math foundations for data science.
+### ML Notebooks Collection
+Hands-on ML experiments, practical projects, and learning notebooks.
 
-`Jupyter` · `Kaggle` · `ML`
+`Jupyter` · `ML` · ⭐ 5
 
 [![Notebooks](https://img.shields.io/badge/→_Notebooks-1a1a2e?style=flat-square&logo=github)](https://github.com/nvikou/Machine-learning-notebooks-collection)
-[![Maths](https://img.shields.io/badge/→_Math_for_DS-1a1a2e?style=flat-square&logo=github)](https://github.com/nvikou/Mathematics-for-Data-Science)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Math for Data Science
+Structured notebooks and resources covering the math foundations of ML.
+
+`Jupyter` · `Math` · ⭐ 1
+
+[![Repo](https://img.shields.io/badge/→_GitHub-1a1a2e?style=flat-square&logo=github)](https://github.com/nvikou/Mathematics-for-Data-Science)
+
+</td>
+<td width="50%" valign="top">
+
+### More projects
+See everything on my GitHub profile.
+
+[![GitHub](https://img.shields.io/badge/→_All_repos-1a1a2e?style=flat-square&logo=github)](https://github.com/nvikou?tab=repositories)
 
 </td>
 </tr>
@@ -134,10 +156,11 @@ Hands-on ML experiments, Kaggle work & math foundations for data science.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nvikou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06080f&title_color=00d4aa&icon_color=6366f1&text_color=c9d1d9" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nvikou&theme=tokyonight&hide_border=true&background=06080f&ring=00d4aa&fire=6366f1&currStreakLabel=00d4aa" height="165" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=nvikou&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" height="165" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nvikou&theme=tokyonight&hide_border=true&cache_seconds=21600" height="165" alt="GitHub streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvikou&layout=compact&theme=tokyonight&hide_border=true&bg_color=06080f&title_color=00d4aa&text_color=c9d1d9" alt="Top languages" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvikou&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" height="165" alt="Top languages" />
 
 </div>
 
