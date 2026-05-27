@@ -152,17 +152,21 @@ See everything on my GitHub profile.
 
 ---
 
-## GitHub stats
+## GitHub snapshot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nvikou&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nvikou&theme=tokyonight&hide_border=true&cache_seconds=21600" height="165" alt="GitHub streak" />
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvikou&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" height="165" alt="Top languages" />
+[![Followers](https://img.shields.io/github/followers/nvikou?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/nvikou?tab=followers)
+[![Repositories](https://img.shields.io/badge/Public%20Repos-7+-00d4aa?style=for-the-badge&logo=github&labelColor=06080f)](https://github.com/nvikou?tab=repositories)
+[![Stars](https://img.shields.io/badge/Project%20Stars-27+-6366f1?style=for-the-badge&logo=github&labelColor=06080f)](https://github.com/nvikou?tab=stars)
 
 </div>
+
+| | |
+|:--|:--|
+| **Main languages** | Python · TypeScript · Jupyter Notebook |
+| **Top repos** | [Ai-psychologue-bot](https://github.com/nvikou/Ai-psychologue-bot) · [NeuroHelper](https://github.com/nvikou/NeuroHelper-chat-app-react-fastapi) · [ML Notebooks](https://github.com/nvikou/Machine-learning-notebooks-collection) |
+| **Activity** | [Contribution graph](https://github.com/nvikou) |
 
 ---
 
