@@ -65,7 +65,7 @@ PhD in **Statistics & Econometrics**. I ship production-ready systems, not just 
 ### VateCon — AI Support Agent
 Automates **70–80%** of support tickets: RAG, source citations, confidence scores, auto-escalation.
 
-`FastAPI` · `React` · `LangChain` · `ChromaDB` · `Docker`
+`FastAPI` · `React` · `LangChain` · `ChromaDB` · `Docker` · ⭐ 7
 
 [![Repo](https://img.shields.io/badge/→_GitHub-1a1a2e?style=flat-square&logo=github)](https://github.com/nvikou/Ai-support-chat-react-fastapi)
 
@@ -75,7 +75,7 @@ Automates **70–80%** of support tickets: RAG, source citations, confidence sco
 ### NeuroHelper
 Day plans, checklists & ideas in seconds. React + FastAPI + SSE streaming.
 
-`React 18` · `FastAPI` · `OpenAI` · `Docker` · ⭐ 5
+`React 18` · `FastAPI` · `OpenAI` · `Docker` · ⭐ 8
 
 [![Repo](https://img.shields.io/badge/→_GitHub-1a1a2e?style=flat-square&logo=github)](https://github.com/nvikou/NeuroHelper-chat-app-react-fastapi)
 
@@ -87,7 +87,7 @@ Day plans, checklists & ideas in seconds. React + FastAPI + SSE streaming.
 ### AI Psychologist Telegram Bot
 **Dr. Émile** — conversational assistant with per-user memory & clinical persona.
 
-`Python` · `aiogram 3` · `GPT-4o-mini` · ⭐ 6
+`Python` · `aiogram 3` · `GPT-4o-mini` · ⭐ 9
 
 [![Repo](https://img.shields.io/badge/→_GitHub-1a1a2e?style=flat-square&logo=github)](https://github.com/nvikou/Ai-psychologue-bot)
 
@@ -97,7 +97,7 @@ Day plans, checklists & ideas in seconds. React + FastAPI + SSE streaming.
 ### Tobit Regression Model
 Econometric model for censored data — MLE, scikit-learn-compatible API.
 
-`Python` · `SciPy` · `Econometrics` · ⭐ 5
+`Python` · `SciPy` · `Econometrics` · ⭐ 8
 
 [![Repo](https://img.shields.io/badge/→_GitHub-1a1a2e?style=flat-square&logo=github)](https://github.com/nvikou/Econometric-Tobit-Regression-Model)
 
@@ -109,7 +109,7 @@ Econometric model for censored data — MLE, scikit-learn-compatible API.
 ### AutoML with TPOT
 Automatic pipeline search, Python export, DevContainer / Codespaces.
 
-`TPOT` · `Jupyter` · `AutoML` · ⭐ 5
+`TPOT` · `Jupyter` · `AutoML` · ⭐ 8
 
 [![Repo](https://img.shields.io/badge/→_GitHub-1a1a2e?style=flat-square&logo=github)](https://github.com/nvikou/Automated-Machine-Learning-TPOT)
 
@@ -119,7 +119,7 @@ Automatic pipeline search, Python export, DevContainer / Codespaces.
 ### ML Notebooks Collection
 Hands-on ML experiments, practical projects, and learning notebooks.
 
-`Jupyter` · `ML` · ⭐ 5
+`Jupyter` · `ML` · ⭐ 8
 
 [![Notebooks](https://img.shields.io/badge/→_Notebooks-1a1a2e?style=flat-square&logo=github)](https://github.com/nvikou/Machine-learning-notebooks-collection)
 
@@ -134,7 +134,7 @@ Hands-on ML experiments, practical projects, and learning notebooks.
 ### Math for Data Science
 Structured notebooks and resources covering the math foundations of ML.
 
-`Jupyter` · `Math` · ⭐ 1
+`Jupyter` · `Math` · ⭐ 8
 
 [![Repo](https://img.shields.io/badge/→_GitHub-1a1a2e?style=flat-square&logo=github)](https://github.com/nvikou/Mathematics-for-Data-Science)
 
@@ -158,7 +158,7 @@ See everything on my GitHub profile.
 
 [![Followers](https://img.shields.io/github/followers/nvikou?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/nvikou?tab=followers)
 [![Repositories](https://img.shields.io/badge/Public%20Repos-7+-00d4aa?style=for-the-badge&logo=github&labelColor=06080f)](https://github.com/nvikou?tab=repositories)
-[![Stars](https://img.shields.io/badge/Project%20Stars-27+-6366f1?style=for-the-badge&logo=github&labelColor=06080f)](https://github.com/nvikou?tab=stars)
+[![Stars](https://img.shields.io/badge/Project%20Stars-56+-6366f1?style=for-the-badge&logo=github&labelColor=06080f)](https://github.com/nvikou?tab=stars)
 
 </div>
 
