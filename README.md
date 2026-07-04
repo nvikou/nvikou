@@ -2,7 +2,7 @@
 
 # Hi, I'm Vikou
 
-**AI/ML Developper | Full-Stack Developer & AI Builder | AI/ML Engineer | GPT Engineer | Econometrics |**
+**Full-Stack Developer & AI Builder**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3800&pause=900&color=00D4AA&center=true&vCenter=true&width=640&lines=I+build+AI+agents+%26+full-stack+apps;PhD+in+Statistics+%26+Econometrics;Turning+data+into+real-world+impact" alt="Typing animation" />
 
