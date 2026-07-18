@@ -18,7 +18,7 @@
 
 Passionate about technology, I use **data and AI/ML** to solve business problems — building **AI-powered tools**, **conversational agents**, and **scalable web applications**.
 
-PhD in **Statistics & Econometrics**. I ship production-ready systems, not just demos:
+PhD in **Statistics & Econometrics**. I work across **AI/ML development**, **GPT engineering**, and full-stack delivery — and I ship production-ready systems, not just demos:
 
 - Self-hosted LLM infrastructure (Open WebUI, LiteLLM, SSO, admin ops)
 - Customer support automation (RAG, confidence scores, human escalation)
