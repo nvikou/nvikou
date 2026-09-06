@@ -82,7 +82,7 @@ Self-hosted LLM infrastructure with LiteLLM, Open WebUI, SSO and PostgreSQL.
 </td>
 <td width="33%" valign="top">
 
-### 🤖 Conversational AI
+### 🤖 AI Emotional Support Assistant
 
 Production-oriented conversational assistant with memory, safety controls and persistent storage.
 
